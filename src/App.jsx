@@ -197,7 +197,7 @@ export default function AgriCultureApp() {
                   <BookOpen className="w-3.5 h-3.5" />
                   Traditional Practice
                 </span>
-                <span>⏱️ 5 min read</span>
+                <span>⏱️ 10 min read</span>
               </div>
             </div>
           </div>
